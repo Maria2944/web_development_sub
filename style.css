@@ -1,0 +1,23 @@
+body{
+    padding: 100px;
+    background-color: darkblue;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+}
+
+div{
+    height: 500px;
+    width: 500px;
+    background-color:rgb(78, 245, 153);
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    border-radius: 10px;
+    color: rgb(235, 8, 8);
+    font-size: 25px;
+    font-style: italic;
+    font-weight: bold;
+}
